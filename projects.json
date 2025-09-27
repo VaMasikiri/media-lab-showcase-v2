@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Documentary on Zvishavane Culture",
+    "description": "A short film exploring local traditions and student interviews.",
+    "thumbnail": "images/zvishavane_doc.jpg",
+    "link": "https://youtu.be/example"
+  },
+  {
+    "title": "Health Awareness Poster",
+    "description": "Designed by students to promote campus wellness.",
+    "thumbnail": "images/health_poster.jpg",
+    "link": "https://drive.google.com/example"
+  }
+]
